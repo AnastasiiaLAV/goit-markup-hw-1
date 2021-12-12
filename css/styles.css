@@ -1,0 +1,9 @@
+.hidden-title {
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  padding: 0;
+}
+.container {
+  width: 1200px;
+}
